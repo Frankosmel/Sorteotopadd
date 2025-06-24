@@ -3,7 +3,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import os
 import json
 
-TOKEN = 'AQUI_TU_TOKEN_DEL_BOT'
+TOKEN = '7996381032:AAHGXxjLHdPp1n77RomiRZQO1L0sAzPJIyo'
 bot = telebot.TeleBot(TOKEN)
 
 # Archivos de datos
